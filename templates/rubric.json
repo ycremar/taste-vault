@@ -1,0 +1,18 @@
+[
+  {
+    "id": "RULE001",
+    "rule": "Open a personal learning post with a specific observation or event before stating a general lesson.",
+    "scope": "Personal learning posts for beginners",
+    "status": "approved",
+    "positive_evidence": [
+      "F001",
+      "F002"
+    ],
+    "counterevidence": [],
+    "exceptions": [
+      "Reference guides may lead with an answer.",
+      "Do not invent a personal event to satisfy this rule."
+    ],
+    "approval_feedback": "F002"
+  }
+]

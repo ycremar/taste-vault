@@ -1,0 +1,27 @@
+{
+  "id": "R002",
+  "domain": "writing",
+  "context": "Same drawing experience and beginner audience. Compare two openings to test concrete observation versus abstract summary.",
+  "candidates": [
+    {
+      "id": "A",
+      "title": "Opening A",
+      "content": "After seven mornings drawing one cup, I noticed I had been making the handle too small.",
+      "source": {
+        "kind": "original",
+        "creator": "Taste Vault contributors",
+        "rights": "Original synthetic example; MIT"
+      }
+    },
+    {
+      "id": "B",
+      "title": "Opening B",
+      "content": "After seven mornings drawing one cup, I learned that consistent practice improves perception.",
+      "source": {
+        "kind": "original",
+        "creator": "Taste Vault contributors",
+        "rights": "Original synthetic example; MIT"
+      }
+    }
+  ]
+}

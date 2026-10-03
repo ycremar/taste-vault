@@ -1,0 +1,20 @@
+[
+  {
+    "id": "H001",
+    "claim": "For personal learning posts, this fictional reader prefers a concrete observation before an abstract lesson.",
+    "scope": "Personal learning posts for beginners",
+    "status": "confirmed",
+    "confidence": "medium",
+    "support": [
+      "F001",
+      "F002"
+    ],
+    "counterevidence": [],
+    "confounds": [
+      "R001 also varied voice and specificity.",
+      "Only one topic has been tested."
+    ],
+    "confirmation_quote": "A again. For my personal learning posts, I want the observation first. I approve RULE001 with that scope; it need not apply to reference guides.",
+    "next_test": "Compare unseen openings about learning music; allow a reversal."
+  }
+]

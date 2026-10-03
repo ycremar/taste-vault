@@ -1,0 +1,18 @@
+{
+  "id": "F001",
+  "round_id": "R001",
+  "verbatim": "A feels like something that happened. B says nothing to me. C might be useful, but I have not decided.",
+  "liked": [
+    "A"
+  ],
+  "disliked": [
+    "B"
+  ],
+  "partial_reactions": [
+    {
+      "candidate_id": "C",
+      "note": "Potentially useful; preference unresolved."
+    }
+  ],
+  "approved_rules": []
+}

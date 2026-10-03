@@ -1,0 +1,106 @@
+[
+  {
+    "id": "chase-ai",
+    "role": "inspiration",
+    "url": "https://www.chaseai.io/blog/gpt-astra-front-end-design",
+    "provenance": "User discussion and cited references; verify the actual source before use.",
+    "redistribution": "Link only; original rights apply.",
+    "note": ""
+  },
+  {
+    "id": "404",
+    "role": "inspiration",
+    "url": null,
+    "provenance": "User discussion and cited references; verify the actual source before use.",
+    "redistribution": "Link only; original rights apply.",
+    "note": "Exact @404 post URL unavailable; do not substitute another author."
+  },
+  {
+    "id": "preference-diversity",
+    "role": "research",
+    "url": "https://arxiv.org/abs/2408.10075",
+    "provenance": "User discussion and cited references; verify the actual source before use.",
+    "redistribution": "Link only; original rights apply.",
+    "note": ""
+  },
+  {
+    "id": "personalization",
+    "role": "research",
+    "url": "https://arxiv.org/abs/2402.08925",
+    "provenance": "User discussion and cited references; verify the actual source before use.",
+    "redistribution": "Link only; original rights apply.",
+    "note": ""
+  },
+  {
+    "id": "collective-diversity",
+    "role": "research",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11244532/",
+    "provenance": "User discussion and cited references; verify the actual source before use.",
+    "redistribution": "Link only; original rights apply.",
+    "note": ""
+  },
+  {
+    "id": "distinction",
+    "role": "theory",
+    "url": "https://www.routledge.com/Distinction-A-Social-Critique-of-the-Judgement-of-Taste/Bourdieu/p/book/9780415567886",
+    "provenance": "User discussion and cited references; verify the actual source before use.",
+    "redistribution": "Link only; original rights apply.",
+    "note": ""
+  },
+  {
+    "id": "pg-taste",
+    "role": "essay",
+    "url": "https://paulgraham.com/taste.html",
+    "provenance": "User discussion and cited references; verify the actual source before use.",
+    "redistribution": "Link only; original rights apply.",
+    "note": ""
+  },
+  {
+    "id": "refero",
+    "role": "candidate_pool",
+    "url": "https://refero.design/",
+    "provenance": "User discussion and cited references; verify the actual source before use.",
+    "redistribution": "Link only; original rights apply.",
+    "note": ""
+  },
+  {
+    "id": "landbook",
+    "role": "candidate_pool",
+    "url": "https://land-book.com/",
+    "provenance": "User discussion and cited references; verify the actual source before use.",
+    "redistribution": "Link only; original rights apply.",
+    "note": ""
+  },
+  {
+    "id": "awwwards",
+    "role": "candidate_pool",
+    "url": "https://www.awwwards.com/",
+    "provenance": "User discussion and cited references; verify the actual source before use.",
+    "redistribution": "Link only; original rights apply.",
+    "note": ""
+  },
+  {
+    "id": "saaspo",
+    "role": "candidate_pool",
+    "url": "https://saaspo.com/",
+    "provenance": "User discussion and cited references; verify the actual source before use.",
+    "redistribution": "Link only; original rights apply.",
+    "note": ""
+  },
+  {
+    "id": "maxibestof",
+    "role": "candidate_pool",
+    "url": "https://maxibestof.one/",
+    "provenance": "User discussion and cited references; verify the actual source before use.",
+    "redistribution": "Link only; original rights apply.",
+    "note": ""
+  },
+  {
+    "id": "interactive-output",
+    "role": "interface_inspiration",
+    "url": "https://www.searchenginejournal.com/karpathy-llm-aircraft-manual-writing/591813/",
+    "provenance": "User discussion and cited references; verify the actual source before use.",
+    "redistribution": "Link only; original rights apply.",
+    "note": ""
+  }
+]

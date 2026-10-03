@@ -1,0 +1,37 @@
+{
+  "id": "R001",
+  "domain": "writing",
+  "context": "Choose an opening for a short post about learning to draw, aimed at curious beginners. Same topic; broad style exploration, not a controlled experiment.",
+  "candidates": [
+    {
+      "id": "A",
+      "title": "Opening A",
+      "content": "I drew the same cup every morning for a week. On Friday, I finally noticed the handle was bigger than I thought.",
+      "source": {
+        "kind": "original",
+        "creator": "Taste Vault contributors",
+        "rights": "Original synthetic example; MIT"
+      }
+    },
+    {
+      "id": "B",
+      "title": "Opening B",
+      "content": "In a world of endless possibility, creativity is the key to unlocking your true potential.",
+      "source": {
+        "kind": "original",
+        "creator": "Taste Vault contributors",
+        "rights": "Original synthetic example; MIT"
+      }
+    },
+    {
+      "id": "C",
+      "title": "Opening C",
+      "content": "Can you learn to draw in seven days? Here are five exercises to test.",
+      "source": {
+        "kind": "original",
+        "creator": "Taste Vault contributors",
+        "rights": "Original synthetic example; MIT"
+      }
+    }
+  ]
+}
